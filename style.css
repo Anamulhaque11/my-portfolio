@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: ;
+}
+
+#user{
+    height: 50%;
+    width: 100%;
+    background-color: lightskyblue;
+}
+#user img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 3%;
+}
+#user h2{
+    text-align: left;
+    margin-left: 20px;
+    vertical-align: middle;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-shadow: 5x 2px 4px grey;
+
+}
+#user p{
+    margin-left: 10px;
+    vertical-align: middle;
+    color: rgb(187, 16, 30);
+}
+
+#text{
+    color: rgb(187, 16, 30);
+    font-family: 'Courier New', Courier, monospace;
+   font-size: 1.5rem;
+   font-style: oblique;
+   font-weight: 700;
+   font-variant: small-caps;
+   text-align: justify;
+   vertical-align: ;
+   text-indent: 40px;
+   margin-left: 15px;
+
+}
